@@ -1,4 +1,4 @@
-# 🔑 Dotfiles backup
+# 🔑 Dotfiles
 
 ## To be considered
 - [Mail Spring](https://getmailspring.com/)
